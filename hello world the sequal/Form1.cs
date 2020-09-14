@@ -24,7 +24,7 @@ namespace hello_world_the_sequal
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("goodbye crule_world_the_sequal" + txtBxName.Text);
+            MessageBox.Show("welcome to king brighids kingdom" + txtBxName.Text);
         }
 
         private void H_TextChanged(object sender, EventArgs e)
